@@ -18,10 +18,10 @@
 
 ![Obunga](https://static.wikia.nocookie.net/evade-nextbot/images/7/75/Obunga.png/revision/latest?cb=20230312113830)
 
-| Syntax | Description |
+| x | f(x) |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 9 | 1/3 |
+| 16 | 1/4 |
 
 ```
 {
